@@ -8,3 +8,5 @@ print hello(jake)
 
 # Another way
 print hello("Jake The Rabbit")
+
+print goodbye(jake)
